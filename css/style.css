@@ -1,0 +1,21 @@
+.navigation li{
+  list-style: none;
+  display:inline-block;
+}
+
+nav{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  float: right;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
